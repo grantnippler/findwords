@@ -1,0 +1,10 @@
+Package: findwords
+Type: Package
+Title: Language leanring resource that looks up words for creating anki decks
+Version: 0.1.0
+Author: GCN
+Maintainer: The package maintainer <gnippler@gmail.com>
+Description: Simply returns websites in your target language that inlcude definition of the word, 2. visual representation of the wrod and 3. pronounciation.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
